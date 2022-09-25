@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E219714F28E0C42B00004EE2 /* CodeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E219714E28E0C42B00004EE2 /* CodeTextView.swift */; };
+		E219718928E0EBCA00004EE2 /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E219718828E0EBCA00004EE2 /* RectangleCard.swift */; };
 		E241147E28DB957900B2CDD2 /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E241147D28DB957900B2CDD2 /* LearningApp.swift */; };
 		E241148028DB957900B2CDD2 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E241147F28DB957900B2CDD2 /* HomeView.swift */; };
 		E241148228DB957A00B2CDD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E241148128DB957A00B2CDD2 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		E219714E28E0C42B00004EE2 /* CodeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTextView.swift; sourceTree = "<group>"; };
+		E219718828E0EBCA00004EE2 /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 		E241147A28DB957900B2CDD2 /* Learning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E241147D28DB957900B2CDD2 /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		E241147F28DB957900B2CDD2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				E2DCD24728DF3E3300CD9089 /* ContentViewRow.swift */,
 				E2DCD24928DF7E0F00CD9089 /* ContentDetailView.swift */,
 				E219714E28E0C42B00004EE2 /* CodeTextView.swift */,
+				E219718828E0EBCA00004EE2 /* RectangleCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				E219714F28E0C42B00004EE2 /* CodeTextView.swift in Sources */,
 				E241149128DB975000B2CDD2 /* ContentModel.swift in Sources */,
 				E2624C2E28DCBC58007225C7 /* Models.swift in Sources */,
+				E219718928E0EBCA00004EE2 /* RectangleCard.swift in Sources */,
 				E2DCD24F28DF839100CD9089 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
